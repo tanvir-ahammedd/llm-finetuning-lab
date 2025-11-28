@@ -1,0 +1,1 @@
+This repository contains a fine-tuned Large Language Model (LLM) trained using LoRA / QLoRA for efficient parameter-optimized adaptation. The goal of this project is to create a lightweight, instruction-tuned model that performs well on downstream tasks with minimal compute.
